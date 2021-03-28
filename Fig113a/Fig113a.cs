@@ -7,7 +7,7 @@ namespace Fig113a
         int w, x, y, z;
         int i = 4; int j = 5;
 
-        public void Run()
+        public void RunEquivalentExample()
         {
              Scope1();
              x = i + j;
