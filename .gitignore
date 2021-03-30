@@ -348,3 +348,8 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Executables from samples
+Fig113aCpp/fig113a
+Excercise164/excercise164
+Excercise164/a.out

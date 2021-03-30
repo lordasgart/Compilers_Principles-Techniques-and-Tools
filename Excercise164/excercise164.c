@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 #define a (x+1)
 int x = 2;
 void b() { x = a; printf("%d\n", x); }
